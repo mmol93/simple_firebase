@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593119604485",
+    "project_id": "fir-infrun",
+    "storage_bucket": "fir-infrun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593119604485:android:b1796c7813c4e3c94ed16c",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593119604485-18n3kditsico1fjfjgtd5qicr20qi37j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase1",
+            "certificate_hash": "da761268236dd259ee9b7b840b8f3307dd3f8563"
+          }
+        },
+        {
+          "client_id": "593119604485-bbvb18jdgr9brt41sgbdoqft7sb7mf6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllbsgxRZ4kwZYW_uAgcsWySppIOm2SvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593119604485-bbvb18jdgr9brt41sgbdoqft7sb7mf6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
